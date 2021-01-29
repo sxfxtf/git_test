@@ -10,7 +10,7 @@
 判断各个文件夹里是否有文本,没有提示.
 '''
 import time
-import os
+import os1
 import random
 # import json
 # import pandas
